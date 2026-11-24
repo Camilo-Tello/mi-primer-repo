@@ -3,3 +3,4 @@ Nota para probar los cambios remotos en un repositorio
 Nota de prueba para git pull remoto
 Nota dos de prueba para git pull remoto
 Nota de prueba para flujo de trabajo
+Texto prueba git add desktop
